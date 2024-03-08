@@ -7,9 +7,9 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917034167123', 'EXCEL', true], 
-  ['918547968694', 'EXCEL', true], 
-  ['917034167123', '⚡DEVI', true],
+  ['917034167123', '𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷', true], 
+  ['918547968694', '𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷', true], 
+  ['917034167123', '𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷', true],
 
 ] //Number of owners
 
@@ -55,7 +55,7 @@ global.APIKeys = { // APIKey Here
 global.botname = '𝐂𝚫𝚻𝐒𝚸𝐘'
 global.premium = 'true'
 global.packname = 'STAR-MD' 
-global.author = '@Excel' 
+global.author = '@𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷' 
 global.menuvid = 'https://i.imgur.com/fJ5KkpW.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
 global.dygp='▢✓ Follow My channel\nhttps://chat.whatsapp.com/Lg0lY4M1k8oDMYzylg86xs\n'
